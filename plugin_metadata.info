@@ -1,0 +1,14 @@
+# Bundled parser metadata for the IntentDiff language-info API.
+# Plugin code exposes this data; the host still owns trust and provenance.
+
+[plugin]
+author = IntentDiff
+plugin_version = 0.1.0
+last_updated = 2026-05-19
+
+[language.ruby]
+language_name = Ruby
+language_short_name = Ruby
+monaco_language = ruby
+default_filename = code.rb
+language_file_extensions = 
